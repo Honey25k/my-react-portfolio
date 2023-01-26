@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.3c8937c3.css",
+    "main.js": "/my-react-portfolio/static/js/main.e62c6e39.js",
+    "static/media/header.jpg": "/my-react-portfolio/static/media/header.5bdcf9dac8926620a7f9.jpg",
+    "static/media/screenshot.png": "/my-react-portfolio/static/media/screenshot.3fe057667eafb6222c7f.png",
+    "static/media/prework1.jpeg": "/my-react-portfolio/static/media/prework1.ca1102f1d9cd89ece6d7.jpeg",
+    "static/media/connect4.png": "/my-react-portfolio/static/media/connect4.4d603be5b7f2d48b1390.png",
+    "static/media/react.png": "/my-react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/my-react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/my-react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/my-react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/my-react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/my-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.3c8937c3.css.map": "/my-react-portfolio/static/css/main.3c8937c3.css.map",
+    "main.e62c6e39.js.map": "/my-react-portfolio/static/js/main.e62c6e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c8937c3.css",
+    "static/js/main.e62c6e39.js"
+  ]
+}
