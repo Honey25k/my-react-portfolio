@@ -1,13 +1,13 @@
 import React from "react";
 import ConnectFour from "../assets/portfolio/connect4.png";
-import preWork from "../assets/portfolio/prework1.jpeg";
+import socialMedia from "../assets/portfolio/prework1.jpeg";
 import wineAndDine from "../assets/portfolio/screenshot.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: preWork,
+      src: socialMedia,
       demo: "https://honey25k.github.io/prework-study-guide/",
       textDemo: "Demo",
       code: "https://github.com/Honey25k/prework-study-guide",
@@ -54,7 +54,7 @@ const Portfolio = () => {
               />
               <div className="flex items-center justify-center">
                 <a href={demo} target='_blank' rel='noreferrer'>
-                  <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" >
+                  <button className="w-1/2 py-3 m-4 duration-200 hover:scale-105" >
                     {textDemo}
                   </button>
                 </a>

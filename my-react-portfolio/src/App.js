@@ -6,6 +6,7 @@ import NavBar from "./components/Navigation";
 import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/Footer";
 
+
 function App() {
   return (
     <div>
